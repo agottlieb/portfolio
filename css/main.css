@@ -97,7 +97,7 @@ textarea {
           font-family: 'Source Sans Pro', sans-serif;
           font-size: 1em;
           text-align: left;
-          color: #C0C0C0;
+          color: #2e2e1f;
    }
 
    ul,
@@ -158,6 +158,7 @@ footer {
   align-items: center;
   flex-flow: row wrap;
   background-color: #191970;
+  color: #C0C0C0;
 }
 
 header {
