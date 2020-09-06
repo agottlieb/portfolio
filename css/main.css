@@ -110,12 +110,12 @@ textarea {
      text-decoration: none;
    }
 
-   h1 {font-family: 'Cinzel', serif;
+   h1 {font-family: 'Kumbh Sans', serif;
    font-weight: 800;
    font-size: 2.5m;
    }
 
-   h2 {  font-family: 'Cinzel', sans-serif;
+   h2 {  font-family: 'Kumbh Sans', sans-serif;
       font-weight: 500;
      font-size: 1.875em;
 
@@ -123,7 +123,7 @@ textarea {
 
    h3,
    h4 {
-     font-family: 'Cinzel', sans-serif;
+     font-family: 'Kumbh Sans', sans-serif;
      margin: 20px 0;
      font-size: 1.5em;
      font-weight: 500;
